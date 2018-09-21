@@ -5,6 +5,9 @@ contributor:
     agent_name: Snyder, W. P.
     gutenberg_agent_id: '41875'
     url: http://www.gutenberg.org/2009/agents/41875
+covers:
+- cover_type: archival
+  image_path: 53738-h/images/cover.jpg
 creator:
   author:
     agent_name: Kellogg, Elijah
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '45035'
     url: http://www.gutenberg.org/2009/agents/45035
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53738#The-Unseen-Hand-or-James-Renfew-and-His-Boy-Helpers
 gutenberg_issued: '2016-12-15'
 gutenberg_type: Text
 identifiers:
