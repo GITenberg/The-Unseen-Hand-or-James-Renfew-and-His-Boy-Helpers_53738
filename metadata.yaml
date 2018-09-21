@@ -1,0 +1,36 @@
+_repo: The-Unseen-Hand-or-James-Renfew-and-His-Boy-Helpers_53738
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Snyder, W. P.
+    gutenberg_agent_id: '41875'
+    url: http://www.gutenberg.org/2009/agents/41875
+creator:
+  author:
+    agent_name: Kellogg, Elijah
+    birthdate: 1813
+    deathdate: 1901
+    gutenberg_agent_id: '45035'
+    url: http://www.gutenberg.org/2009/agents/45035
+description: ''
+gutenberg_issued: '2016-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53738'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Pioneers -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Poverty -- Juvenile fiction'
+- GITenberg
+title: The Unseen Hand; or, James Renfew and His Boy Helpers
+url: http://www.gutenberg.org/ebooks/53738
